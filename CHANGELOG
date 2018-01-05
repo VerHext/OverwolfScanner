@@ -1,1 +1,9 @@
+Version V1.1
+ - add function IgnoreUser with icons.
+ - change config type -> json
+ - update TS framework version
+ - change the connection -> connect via VirtualServerID 
+ - change reedme -> modern and up to date
+ //It works better. You can find the VirtualServerId with the free tool YaTQA
+
 Upload V1.0 
