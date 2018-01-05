@@ -1,3 +1,6 @@
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
+
 # Overwolf Scanner
 This TeamSpeak Query bot Scann your TeamSpeak. All Player who join without Overwolf, set into a Group.
 
@@ -8,7 +11,7 @@ This TeamSpeak Query bot Scann your TeamSpeak. All Player who join without Overw
 2. Move the .jar file into a folder on your Server.
 3. Connect via Putty or other SSH Clients to your Server.
 4. Start the Bot with `sudo java -jar Overwolf.jar`
-5. Go into the folder Overwolf/settings/config.yml
+5. Go into the folder Overwolf/config.json
 6. Edit the Configuration and stopt the bot with `STRG` + `C`
 7. Start the Bot again
 8. Finnish
@@ -36,3 +39,5 @@ https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API
 Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-nc-sa/4.0/.
 ____________________
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+An ![](https://magiccoder.de/images/magic/magiCCoder_gro%c3%9f.jpg)(https://magiccoder.de) project.
